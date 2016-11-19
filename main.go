@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/OlivierBarbier/mychat/lib"
+	"github.com/OlivierBarbier/golang-chat/lib"
 )
 
 func main() {
